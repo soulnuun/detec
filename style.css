@@ -1,0 +1,30 @@
+
+a:hover{
+color: #ffccff
+}
+.text{
+font-family: "Quicksand";
+}
+a.link{
+font-family: "Quicksand";
+font-size: 30px;
+}
+h1.text3{
+background: #d7b3ff;
+font-size: 100px;
+outline: 2px solid black;
+border: 2px solid black;
+padding: 5px;
+
+}
+h2.text2{
+	margin-left: 12px;
+	font-size: 75px
+
+
+}
+.textmain{
+font-family: "Quicksand";
+font-size: 50px;
+;
+}
